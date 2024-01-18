@@ -1,0 +1,36 @@
+footer{
+    background-image: url(../../images/Rectangle\ 678.jpg);
+    padding-left: 30px;
+    padding-top: 68px;
+    padding-bottom: 68px;
+    padding-right: 38px;
+}
+
+.footer-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-box{
+    display: flex;
+    gap: 40px;
+}
+
+.footer-box-2{
+    display: flex;
+    gap: 30px;
+}
+
+.footer-link{
+    color: #333;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
